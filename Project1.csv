@@ -1,0 +1,11 @@
+﻿Airline_Name,On_Time_Flight_Count,Delayed_Flight_Count,Airport_Name
+Alaska,497,62,Los Angeles
+Alaska,221,12,Phoenix
+Alaska,212,20,San Diego
+Alaska,503,102,San Francisco
+Alaska,1841,305,Seattle
+AM West,694,117,Los Angeles
+AM West,4840,415,Phoenix
+AM West,383,65,San Diego
+AM West,320,129,San Francisco
+AM West,201,61,Seattle
